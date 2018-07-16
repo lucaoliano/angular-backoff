@@ -2,6 +2,7 @@
   "name": "angular-backoff",
   "version": "1.0.0",
   "description": "exponential backoff for angularjs",
+  "main": "index.js",
   "devDependencies": {
     "uglify-js": "^2.4.14",
     "coffee-script": "^1.7.1"
